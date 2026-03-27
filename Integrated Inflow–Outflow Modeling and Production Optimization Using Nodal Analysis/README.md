@@ -1,6 +1,6 @@
-# 🛢️ Physics-Guided Nodal Analysis and Production Optimization of Oil Wells
+# Physics-Guided Nodal Analysis and Production Optimization of Oil Wells
 
-## 📌 Overview
+## Overview
 
 This project implements a physics-based nodal analysis framework to evaluate and optimize oil well production by coupling reservoir inflow performance (IPR) with wellbore outflow performance (TPR).
 
@@ -8,7 +8,7 @@ Unlike conventional academic implementations, this project extends nodal analysi
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 In oil and gas production, determining the optimal operating condition of a well is critical for maximizing production while minimizing operational inefficiencies.
 
@@ -23,7 +23,7 @@ This project simulates these interactions and provides **data-driven engineering
 
 ---
 
-## ⚙️ Technical Approach
+## Technical Approach
 
 ### 1. Inflow Performance Relationship (IPR)
 
@@ -51,7 +51,7 @@ This project simulates these interactions and provides **data-driven engineering
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * ✅ Physics-based IPR modeling using Vogel correlation
 * ✅ TPR modeling including hydrostatic and frictional effects
@@ -66,7 +66,7 @@ This project simulates these interactions and provides **data-driven engineering
 
 ---
 
-## 🧠 Decision & Optimization Logic
+## Decision & Optimization Logic
 
 This project goes beyond visualization by implementing **engineering decision logic**:
 
@@ -87,7 +87,7 @@ This project goes beyond visualization by implementing **engineering decision lo
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * Python
 * NumPy
@@ -95,7 +95,7 @@ This project goes beyond visualization by implementing **engineering decision lo
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install numpy matplotlib
@@ -104,7 +104,7 @@ python main.py
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── step1_ipr.py
@@ -117,7 +117,7 @@ python main.py
 
 ---
 
-## 🔮 Future Improvements (Industry-Level)
+## Future Improvements (Industry-Level)
 
 * 🔹 Integration with real field production data
 * 🔹 Multi-well optimization and field-level modeling
@@ -127,15 +127,16 @@ python main.py
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This project demonstrates how physics-based modeling combined with numerical methods can be used to optimize oil well performance. By incorporating decision-making logic, it bridges the gap between academic concepts and real-world petroleum engineering applications.
 
 ---
 
-## 👨‍💻 Author
+### Author
 
-Petroleum Engineering Student
+**Mani Kanta**  
+Petroleum Engineering  
 IIT (ISM) Dhanbad
 
 ---

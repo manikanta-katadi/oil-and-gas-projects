@@ -133,9 +133,10 @@ This project demonstrates how physics-based modeling combined with numerical met
 
 ---
 
-## 👨‍💻 Author
+### Author
 
-Petroleum Engineering Student
+**Mani Kanta**  
+Petroleum Engineering  
 IIT (ISM) Dhanbad
 
 ---

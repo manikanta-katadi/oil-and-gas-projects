@@ -51,20 +51,22 @@ This project simulates these interactions and provides **data-driven engineering
 
 ---
 
-Key Features
-✅ Physics-based IPR modeling using Vogel correlation
-✅ TPR modeling including hydrostatic and frictional effects
-✅ Integrated nodal analysis (IPR–TPR coupling)
-✅ Sensitivity analysis:
-Tubing size optimization
-Wellhead pressure optimization
-✅ Reservoir depletion modeling
-✅ Artificial lift (gas lift) simulation
-✅ Decision-making layer for engineering recommendations
+## Key Features
+
+* ✅ Physics-based IPR modeling using Vogel correlation
+* ✅ TPR modeling including hydrostatic and frictional effects
+* ✅ Integrated nodal analysis (IPR–TPR coupling)
+* ✅ Sensitivity analysis:
+
+  * Tubing size optimization
+  * Wellhead pressure optimization
+* ✅ Reservoir depletion modeling
+* ✅ Artificial lift (gas lift) simulation
+* ✅ **Decision-making layer for engineering recommendations**
 
 ---
 
-## Decision & Optimization Logic
+##  Decision & Optimization Logic
 
 This project goes beyond visualization by implementing **engineering decision logic**:
 
@@ -75,7 +77,7 @@ This project goes beyond visualization by implementing **engineering decision lo
 
 ---
 
-## 📈 Key Results & Insights
+##  Key Results & Insights
 
 * Larger tubing significantly reduces friction losses and increases production rate
 * Increasing wellhead pressure reduces production due to higher backpressure
@@ -85,7 +87,7 @@ This project goes beyond visualization by implementing **engineering decision lo
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 * Python
 * NumPy
@@ -93,7 +95,7 @@ This project goes beyond visualization by implementing **engineering decision lo
 
 ---
 
-## How to Run
+##  How to Run
 
 ```bash
 pip install numpy matplotlib
@@ -102,7 +104,7 @@ python main.py
 
 ---
 
-## Project Structure
+##  Project Structure
 
 ```
 ├── step1_ipr.py
@@ -115,27 +117,25 @@ python main.py
 
 ---
 
-## Future Improvements (Industry-Level)
+##  Future Improvements (Industry-Level)
 
-* 🔹 Integration with real field production data
-* 🔹 Multi-well optimization and field-level modeling
-* 🔹 Economic analysis (NPV, cost vs production optimization)
-* 🔹 Machine learning models for production prediction
-* 🔹 Interactive dashboards using Plotly / Streamlit
+*  Integration with real field production data
+*  Multi-well optimization and field-level modeling
+*  Economic analysis (NPV, cost vs production optimization)
+*  Machine learning models for production prediction
+*  Interactive dashboards using Plotly / Streamlit
 
 ---
 
-## Conclusion
+##  Conclusion
 
 This project demonstrates how physics-based modeling combined with numerical methods can be used to optimize oil well performance. By incorporating decision-making logic, it bridges the gap between academic concepts and real-world petroleum engineering applications.
 
 ---
 
-### Author
+## 👨‍💻 Author
 
-**Mani Kanta**  
-Petroleum Engineering  
+Petroleum Engineering Student
 IIT (ISM) Dhanbad
 
 ---
-

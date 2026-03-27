@@ -70,10 +70,10 @@ This project simulates these interactions and provides **data-driven engineering
 
 This project goes beyond visualization by implementing **engineering decision logic**:
 
-* 🔹 Automatically identifies **optimal tubing size** for maximum production
-* 🔹 Determines **optimal wellhead pressure (WHP)**
-* 🔹 Evaluates whether **gas lift is required**
-* 🔹 Quantifies **percentage improvement in production**
+*  Automatically identifies **optimal tubing size** for maximum production
+*  Determines **optimal wellhead pressure (WHP)**
+*  Evaluates whether **gas lift is required**
+*  Quantifies **percentage improvement in production**
 
 ---
 

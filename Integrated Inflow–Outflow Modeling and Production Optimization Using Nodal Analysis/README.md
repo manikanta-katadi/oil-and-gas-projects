@@ -57,7 +57,6 @@ This project simulates these interactions and provides **data-driven engineering
 *  TPR modeling including hydrostatic and frictional effects
 *  Integrated nodal analysis (IPR–TPR coupling)
 *  Sensitivity analysis:
-
   * Tubing size optimization
   * Wellhead pressure optimization
 *  Reservoir depletion modeling

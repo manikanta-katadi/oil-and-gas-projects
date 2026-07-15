@@ -34,7 +34,7 @@ This project simulates these interactions and provides **data-driven engineering
 
 * Modeled using:
   [
-  P_{wf} = P_{wh} + aq + bq^2
+  P_wf = P_wh + aq + bq^2
   ]
 * Captures:
 
@@ -53,16 +53,16 @@ This project simulates these interactions and provides **data-driven engineering
 
 ## Key Features
 
-* ✅ Physics-based IPR modeling using Vogel correlation
-* ✅ TPR modeling including hydrostatic and frictional effects
-* ✅ Integrated nodal analysis (IPR–TPR coupling)
-* ✅ Sensitivity analysis:
+*  Physics-based IPR modeling using Vogel correlation
+*  TPR modeling including hydrostatic and frictional effects
+*  Integrated nodal analysis (IPR–TPR coupling)
+*  Sensitivity analysis:
 
   * Tubing size optimization
   * Wellhead pressure optimization
-* ✅ Reservoir depletion modeling
-* ✅ Artificial lift (gas lift) simulation
-* ✅ **Decision-making layer for engineering recommendations**
+*  Reservoir depletion modeling
+*  Artificial lift (gas lift) simulation
+*  **Decision-making layer for engineering recommendations**
 
 ---
 
